@@ -1,4 +1,7 @@
-# macos-screensaver-launcher
+<h1>
+  <span>screengopher</span>
+  <img src="./static/ScreengopherIcon.png" height="60px" />
+</h1>
 
 Ever wanted to run the macOS screensaver from the Spotlight? So did I.
 
