@@ -2,30 +2,23 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CFBundleDevelopmentRegion</key>
-	<string>English</string>
-	<key>CFBundleExecutable</key>
-	<string>Screengopher</string>
 	<key>CFBundleIdentifier</key>
 	<string>dev.carrio.Screengopher</string>
-	<key>CFBundleInfoDictionaryVersion</key>
-	<string>1.0</string>
 	<key>CFBundleName</key>
 	<string>Screengopher</string>
+	<key>CFBundleDisplayName</key>
+	<string>Screengopher</string>
 	<key>CFBundlePackageType</key>
-	<string>BNDL</string>
-	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>crio</string>
+	<key>CFBundleExecutable</key>
+	<string>Screengopher</string>
 	<key>CFBundleVersion</key>
 	<string>1.0.0</string>
-	<key>NSPrincipalClass</key>
-	<string>CLITool_InfoPlist</string>
-	<key>XCGCReady</key>
-	<true/>
-	<key>XCPluginHasUI</key>
-	<false/>
-	<key>XC4Compatible</key>
-	<true/>
-    <key>CFBundleIconFiles</key>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Tom Carrio</string>
 </dict>
 </plist>
