@@ -2,7 +2,7 @@
 
 Ever wanted to run the macOS screensaver from the Spotlight? So did I.
 
-Say `Hi` to the most basic Go script in the literal world.
+Say `Hi` to the most basic Go script in the literal world with more shell scripting around it than actual Go code.
 
 ## Building
 
@@ -10,13 +10,19 @@ Say `Hi` to the most basic Go script in the literal world.
 ./build.sh
 ```
 
-Congrats, you have a binary in `./bin` ready to execute.
+By default, this will generate the executable binary in `./bin`, as well as package up a barebones, unsigned macOS app bundle in `./pkg`.
 
-Spotlight should be smart enough to detect it exists.
+The benefit of the macOS app is that a terminal window will not be opened when executed from Spotlight Search.
 
 ## Running
 
 1. Super+Space
-2. Type "run-screensaver"
+2. Type "Screengopher"
 3. ??? (I don't know that's none of my business)
 4. Profit
+
+## Additional Info
+
+> Tom, you're dumb.
+>
+> \- Someone, probably
