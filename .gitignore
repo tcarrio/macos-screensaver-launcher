@@ -1,2 +1,6 @@
 /bin
+/pkg
 
+### macOS artifacts
+
+.DS_Store
