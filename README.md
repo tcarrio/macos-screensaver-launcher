@@ -1,3 +1,5 @@
+> ⚠️ Broken as of macOS 14
+
 <h1>
   <span>screengopher</span>
   <img src="./static/ScreengopherIcon.png" height="60px" />
